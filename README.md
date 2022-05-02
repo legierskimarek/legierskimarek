@@ -4,7 +4,7 @@
 [![Contact][contact-shield]][contact-url]
 
 *  Welcome! My name is Marek Legierski. I am very glad that you decided to come here. 😄
-*  I am interested in Software Testing and everything connected with IT.
+*  I am interested in QA/Software Testing and everything connected with IT.
 
 
 
